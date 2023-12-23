@@ -1,0 +1,5 @@
+#ignore secrets file
+secrets.txt
+#.gitignore
+
+#this is a comment
